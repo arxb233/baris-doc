@@ -287,8 +287,6 @@ export const sidebar: DefaultTheme.Config['sidebar'] =  [
       text: '其他站点',
       //collapsed: false,
       items: [
-        { text: 'VitePress文档搭建', link: 'https://vitepress.yiov.top/' },
-        { text: 'VuePress文档搭建', link: 'https://vuepress.yiov.top/' },
         { text: '个人主页', link: 'https://yingyayi.com/' },
       ],
     },

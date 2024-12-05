@@ -3,7 +3,7 @@ import { sidebar } from './configs'
 
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'Yiov',
+  title: 'Baris',
   description: '敏而好学，不耻下问',
 
   // fav
@@ -46,15 +46,12 @@ export default defineConfig({
 
     //导航栏
     nav: [
-      { text: '首页', link: '/' },
-      { text: '🐋 目录', link: '/guide/' },
+      { text: '首页', link: '/'},
+      { text: '目录', link: '/guide/' },
       {
         //下拉菜单
-        text: '其他站点',
+        text: '其他项目',
         items: [
-          { text: 'VitePress文档搭建', link: 'https://vitepress.yiov.top/' },
-          { text: 'VuePress文档搭建', link: 'https://vuepress.yiov.top' },
-          { text: '个人主页', link: 'https://yingyayi.com/' },
         ],
       },
     ],
@@ -95,17 +92,18 @@ export default defineConfig({
 
     //社交链接
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Yiov/yiov.top' },
+      { icon: 'github', link: 'https://github.com/arxb233' },
+      { icon: 'gitee', link: 'https://gitee.com/arxb' },
     ],
 
     //手机端深浅模式文字修改
     darkModeSwitchLabel: '深浅模式',
 
     //页脚
-    // footer: {
-    //   message: 'Power by VitePress && Vidstack',
-    //   copyright: `Copyright © 2023-${new Date().getFullYear()} <a href="https://github.com/Yiov" target="_blank">Yiov</a>`,
-    // },
+     footer: {
+       message: 'Baris 个人学习文档',
+       copyright: `Copyright © 2023-${new Date().getFullYear()} <a href="https://github.com/arxb233" target="_blank">Baris</a>`,
+     },
 
 
     //侧边栏文字更改(移动端)
