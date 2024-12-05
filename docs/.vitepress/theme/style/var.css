@@ -1,0 +1,28 @@
+/* 主题色卡 */
+:root {
+  --vp-c-brand-1: #18794e;
+  --vp-c-brand-2: #299764;
+  --vp-c-brand-3: #30a46c;
+}
+
+.dark {
+  --vp-c-brand-1: #3dd68c;
+  --vp-c-brand-2: #30a46c;
+  --vp-c-brand-3: #298459;
+}
+
+
+/* 超链接隐藏下划线 */
+.vp-doc a {
+  text-decoration: none;
+}
+
+
+/* medium缩放遮盖 */
+.medium-zoom-overlay {
+  z-index: 30;
+}
+
+.medium-zoom-image {
+  z-index: 9999 !important;
+}
