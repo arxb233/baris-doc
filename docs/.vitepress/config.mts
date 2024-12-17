@@ -26,13 +26,13 @@ export default defineConfig({
     },
 
     // 组件插入h1标题下
-    config: (md) => {
-      md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
-          let htmlResult = slf.renderToken(tokens, idx, options);
-          if (tokens[idx].tag === 'h1') htmlResult += `<ArticleMetadata />`; 
-          return htmlResult;
-      }
-    }
+   // config: (md) => {
+     // md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
+         // let htmlResult = slf.renderToken(tokens, idx, options);
+          //if (tokens[idx].tag === 'h1') htmlResult += `<ArticleMetadata />`; 
+         // return htmlResult;
+      //}
+    //}
 
   },
 
@@ -47,7 +47,8 @@ export default defineConfig({
     //导航栏
     nav: [
       { text: '首页', link: '/'},
-      { text: '目录', link: '/guide/' },
+      { text: 'Baris目录', link: '/baris/obsidian/cerebot/certbot' },
+      { text: 'Yiov目录', link: '/yiov/guide/' },
       {
         //下拉菜单
         text: '其他项目',

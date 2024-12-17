@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "2f490a0fbe1239ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8e3db01d7ab672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17ea27502a808bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cerebot/certbot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "certbot"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "928b7e5ec0f5a707",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7af12443f462d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eea8f5896682bfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a3d0b15de4d92194",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5b8b4a0b43b1ab35",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6888970d6ae3c07b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e62c3090f94ff66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a20d7097884d6a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cerebot/certbot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "certbot 的反向链接列表"
+            }
+          },
+          {
+            "id": "107ee8fb7cf54ce0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cerebot/Certbot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Certbot 的出链列表"
+            }
+          },
+          {
+            "id": "4e5433aa5ca352cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d9d61f9bee5c9391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cerebot/certbot.md"
+              },
+              "icon": "lucide-list",
+              "title": "certbot 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "17ea27502a808bdb",
+  "lastOpenFiles": [
+    "meter/meter.md",
+    "meter.md",
+    "sourcetree/sourcetree.md",
+    "python/Steam.md",
+    "IperiusBackup/IperiusBackup.md",
+    "nonebot/nonebot机器人.md",
+    "kingdee/kingdee.md",
+    "meter/3.PNG",
+    "meter/2.PNG",
+    "meter/1.PNG",
+    "meter",
+    "未命名文件夹",
+    "alibaba/alibaba.md",
+    "computer/X99海景房.md",
+    "cerebot/certbot.md",
+    "cerebot/Certbot.md",
+    "sql server/FullWipReport.md",
+    "sql server/工作常用sql.md",
+    "sql server/FullWipReport/20231108140858.png",
+    "未命名.md",
+    "未命名",
+    "未命名.canvas",
+    "2024-12-17.md",
+    "chrome crx/未命名.md",
+    "cerebot",
+    "computer",
+    "python",
+    "sourcetree/Snipaste_2023-10-24_14-04-23.png",
+    "sourcetree/Snipaste_2023-10-24_13-41-04.png",
+    "sourcetree/Snipaste_2023-10-24_13-40-16.png",
+    "sourcetree/Snipaste_2023-10-24_13-39-48.png",
+    "sourcetree/Snipaste_2023-10-24_13-38-08.png",
+    "sourcetree/55e736d12f2eb938142ce56bc616b232e4dd6f65.webp",
+    "sourcetree",
+    "IperiusBackup",
+    "sql server/FullWipReport",
+    "alibaba"
+  ]
+}

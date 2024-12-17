@@ -14,7 +14,6 @@ import vuejs from './components/vuejs.vue'
 import lists from './lists/lists.vue'
 import navlist from './navlist/navlist.vue'
 
-
 export default {
   extends: DefaultTheme,
 
