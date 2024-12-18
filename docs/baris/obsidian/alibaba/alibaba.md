@@ -19,10 +19,11 @@ cover: https://n.sinaimg.cn/spider20190711/320/w1200h720/20190711/2f34-hzrevpz98
 ## 3.键盘按下F12打开开发者模式
 
 ![](/alibaba/图片2.png)
-![](alibaba/图片3.png)
+![](/alibaba/图片3.png)
 
 ## 4.双击代码第五行<head></head>，展开折叠项
-![](/alibaba/图片4.png)![](alibaba/图片5.png)
+![](/alibaba/图片4.png)
+![](/alibaba/图片5.png)
 ## 5.下拉展开折叠项的代码
 
 ![](/alibaba/图片6.png)

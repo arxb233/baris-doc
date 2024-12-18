@@ -180,7 +180,7 @@ top_img: https://www.iperiusbackup.com/img/logos/iperius_backup_logo_header.png
 <p>&nbsp;</p>
 <p>右键查看可操作性：</p>
 
-![](IperiusBackup/1825093-20201101161655449-671294453.png)
+![](/IperiusBackup/1825093-20201101161655449-671294453.png)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
