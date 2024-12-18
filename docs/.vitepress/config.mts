@@ -1,30 +1,5 @@
 import { defineConfig } from 'vitepress'
 import { sidebar } from './configs'
-import { viteStaticCopy } from 'vite-plugin-static-copy';
-import fs from 'fs'; // 文件系统模块
-import path from 'path'; // 路径模块
-
-function cleanDirectory(dir) {
-  if (fs.existsSync(dir)) {
-    fs.readdirSync(dir).forEach(file => {
-      const fullPath = path.join(dir, file);
-
-      // 忽略 .git 和 .gitignore
-      if (file === '.git' || file === '.gitignore') {
-        console.log(`跳过文件/文件夹: ${file}`);
-        return;
-      }
-
-      // 判断是否是目录
-      if (fs.lstatSync(fullPath).isDirectory()) {
-        fs.rmSync(fullPath, { recursive: true, force: true });
-      } else {
-        fs.unlinkSync(fullPath);
-      }
-    });
-    console.log(`已清空目录（忽略 .git 和 .gitignore）: ${dir}`);
-  }
-}
 
 export default defineConfig({
   lang: 'zh-CN',
@@ -152,26 +127,6 @@ export default defineConfig({
       next: '下一页', 
     }, 
 
-  },
-  vite: {
-    plugins: [
-      {
-        name: 'clean-target-folder', // 自定义插件名称
-        apply: 'build',              // 仅在构建阶段生效
-        buildStart() {
-          const targetDir = path.resolve(__dirname, '/Users/songpeng/Documents/github/arxb.github.io-dist');
-          cleanDirectory(targetDir);
-        },
-      },
-      viteStaticCopy({
-        targets: [
-          {
-            src: '.vitepress/dist/*', // 源目录
-            dest: '/Users/songpeng/Documents/github/arxb.github.io-dist', // 目标目录
-          },
-        ],
-      }),
-    ],
   },
 
 })
