@@ -166,7 +166,7 @@ export default defineConfig({
       viteStaticCopy({
         targets: [
           {
-            src: '/Users/songpeng/Documents/github/arxb.github.io/docs/.vitepress/dist/**/*', // 源目录
+            src: '.vitepress/dist/*', // 源目录
             dest: '/Users/songpeng/Documents/github/arxb.github.io-dist', // 目标目录
           },
         ],
