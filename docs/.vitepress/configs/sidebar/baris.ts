@@ -2,13 +2,18 @@ export const Baris ={
     text: 'Baris',
     collapsed: true,
     items: [
+        {
+            text: 'cherry',
+            items: [
+              { text: '插件界面嵌入', link: '/baris/obsidian/cherry/PlunMarketUI' },
+            ],
+      },
       {
         text: '🇭前端相关',
         items: [
+          { text: '常用轮子', link: 'https://liujinkai.com/2022/10/20/20-fontend-component/?utm_source=chatgpt.com' },
           { text: 'vitepress', link: 'https://vitepress.yiov.top/page.html' },
-          { text: '证书', items: [
-            { text: 'Certbot', link: '/baris/obsidian/cerebot/certbot' },
-          ]},
+          { text: '免费证书',  link: '/baris/obsidian/cerebot/certbot' },
         ],
       },
       {

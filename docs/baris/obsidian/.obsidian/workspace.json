@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f8e3db01d7ab672",
+        "id": "1173ded7d56e45c9",
         "type": "tabs",
         "children": [
           {
-            "id": "17ea27502a808bdb",
+            "id": "11d091f3b6d348a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cerebot/certbot.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "certbot"
+              "title": "新标签页"
             }
           }
         ]
@@ -163,16 +159,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "17ea27502a808bdb",
+  "active": "11d091f3b6d348a5",
   "lastOpenFiles": [
-    "sql server/FullWipReport.md",
-    "cerebot/certbot.md",
+    "cherry/未命名.md",
+    "cherry/PlunMarketUI.md",
     "meter/meter.md",
-    "meter.md",
     "sourcetree/sourcetree.md",
-    "python/Steam.md",
-    "IperiusBackup/IperiusBackup.md",
     "nonebot/nonebot机器人.md",
+    "python/Steam.md",
+    "26641734500245_.pic.jpg",
+    "26631734500227_.pic.jpg",
+    "cerebot/certbot.md",
+    "cherry",
+    "sql server/FullWipReport.md",
+    "meter.md",
+    "IperiusBackup/IperiusBackup.md",
     "kingdee/kingdee.md",
     "meter/3.PNG",
     "meter/2.PNG",
@@ -185,7 +186,6 @@
     "sql server/工作常用sql.md",
     "sql server/FullWipReport/20231108140858.png",
     "未命名.md",
-    "未命名",
     "未命名.canvas",
     "2024-12-17.md",
     "chrome crx/未命名.md",
@@ -196,8 +196,6 @@
     "sourcetree/Snipaste_2023-10-24_13-41-04.png",
     "sourcetree/Snipaste_2023-10-24_13-40-16.png",
     "sourcetree/Snipaste_2023-10-24_13-39-48.png",
-    "sourcetree/Snipaste_2023-10-24_13-38-08.png",
-    "sourcetree/55e736d12f2eb938142ce56bc616b232e4dd6f65.webp",
     "sourcetree",
     "IperiusBackup",
     "sql server/FullWipReport",
