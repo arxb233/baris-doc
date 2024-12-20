@@ -8,9 +8,9 @@
     "vue": "^3.5.13"
   },
   "scripts": {
-    "docs:dev": "vitepress dev docs --host",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs"
+    "docs:dev": "vitepress dev docscode --host",
+    "docs:build": "vitepress build docscode && node copy-build.js",
+    "docs:preview": "vitepress preview docscode"
   },
   "packageManager": "pnpm@8.6.10+sha1.98fe2755061026799bfa30e7dc8d6d48e9c3edf0"
 }
