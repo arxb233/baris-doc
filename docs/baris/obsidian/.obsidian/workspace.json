@@ -11,10 +11,14 @@
             "id": "11d091f3b6d348a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cherry/PlunMarketUI.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "PlunMarketUI"
             }
           }
         ]

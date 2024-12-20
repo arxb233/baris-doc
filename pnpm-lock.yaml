@@ -7,6 +7,10 @@ settings:
 importers:
 
   .:
+    dependencies:
+      fs-extra:
+        specifier: ^11.2.0
+        version: 11.2.0
     devDependencies:
       '@types/dom-view-transitions':
         specifier: ^1.0.5
