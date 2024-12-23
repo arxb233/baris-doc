@@ -2,9 +2,11 @@
   "devDependencies": {
     "@types/dom-view-transitions": "^1.0.5",
     "@types/node": "^22.10.2",
+    "canvas-confetti": "^1.9.3",
     "medium-zoom": "^1.1.0",
     "vite-plugin-static-copy": "^2.2.0",
     "vitepress": "1.5.0",
+    "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vue": "^3.5.13"
   },
   "scripts": {
@@ -12,5 +14,8 @@
     "docs:build": "vitepress build docscode && node copy-build.js",
     "docs:preview": "vitepress preview docscode"
   },
-  "packageManager": "pnpm@8.6.10+sha1.98fe2755061026799bfa30e7dc8d6d48e9c3edf0"
+  "packageManager": "pnpm@8.6.10+sha1.98fe2755061026799bfa30e7dc8d6d48e9c3edf0",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
 }
