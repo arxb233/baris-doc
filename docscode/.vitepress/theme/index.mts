@@ -62,48 +62,7 @@ export default {
               height: 340
             }
           },
-          {
-            path: 'https://model.oml2d.com/cat-black/model.json',
-            scale: 0.15,
-            position: [0, 20],
-            stageStyle: {
-              height: 350
-            }
-          },
-          {
-            path: 'https://model.oml2d.com/shizuku_pajama/index.json',
-            scale: 0.2,
-            volume: 0,
-            position: [40, 10],
-            stageStyle: {
-              height: 350,
-              width: 330
-            }
-          },
-          {
-            path: 'https://model.oml2d.com/shizuku/shizuku.model.json',
-            scale: 0.2,
-            volume: 0,
-            position: [70, 70],
-            stageStyle: {
-              height: 370,
-              width: 400
-            }
-          },
-          {
-            path: 'https://model.oml2d.com/Senko_Normals/senko.model3.json',
-            position: [-10, 20]
-          },
-          {
-            path: 'https://model.oml2d.com/Pio/model.json',
-            scale: 0.4,
-            position: [0, 50],
-            stageStyle: {
-              height: 300
-            }
-          }
         ],
-
         tips: {
           idleTips: {
             wordTheDay: (wordTheDayData) => {

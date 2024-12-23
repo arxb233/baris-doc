@@ -1,7 +1,7 @@
 
 # 插件界面嵌入
 
-- 单文件引入
+### 单文件引入
 ::: tip iframe
 这里使用的是传统的方案，iframe嵌入子项目，可以采取以下两种：
 
@@ -76,7 +76,7 @@ onMounted(() => {
 })
 ```
 
-- 发布包导入
+### 发布包导入
   
 ::: tip 发布包导入
 
@@ -125,7 +125,7 @@ public class Class1 : PluginService
 }
 ```
 
-## 微应用 
+### 微应用 
   [qiankun](https://qiankun.umijs.org/zh)
 
 > Techniques, strategies and recipes for building a **modern web app** with **multiple teams** that can **ship features independently**. -- [Micro Frontends](https://micro-frontends.org/)
