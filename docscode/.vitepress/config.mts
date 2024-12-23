@@ -105,7 +105,7 @@ export default defineConfig({
     //页脚
      footer: {
        message: 'Baris 个人学习文档',
-       copyright: `Copyright © 2023-${new Date().getFullYear()} <a href="https://github.com/arxb233" target="_blank">Baris</a>`,
+       copyright: `Copyright © 2023-${new Date().getFullYear()} &nbsp <a href="https://github.com/arxb233" target="_blank">Baris</a> &nbsp <a href="https://beian.miit.gov.cn/" target="_blank">蜀ICP备2024114118号</a> `,
      },
 
 

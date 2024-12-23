@@ -61,7 +61,7 @@ onBeforeUnmount(() => {
 }
 
 .container {
-  background-color: var(--vp-c-bg-soft);
+  background-color: #f3fafc;
   border-radius: 8px;
   width: 100%;
   min-height: 32px;
