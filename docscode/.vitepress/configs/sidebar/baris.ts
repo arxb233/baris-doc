@@ -26,7 +26,7 @@ export const Baris ={
                       {
                           text: 'Nonebot', items: [
                               { text: 'Nonebot安装', link: '/baris/obsidian/nonebot/nonebot机器人' },
-                              { text: 'QQ机器人', link: '/baris/obsidian/nonebot/qqbot' },
+                              { text: 'QQ机器人', link: 'https://ouo.st/archives/shi-yong-nonebot2he-qqcha-jian-da-jian-qqji-qi-ren' },
                           ]
                       },
                       { text: 'Steam脚本', link: '/baris/obsidian/Python/Steam' }

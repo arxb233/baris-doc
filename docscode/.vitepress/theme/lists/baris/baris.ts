@@ -41,6 +41,7 @@ export const baris: listdata[] = [
                 "bdcolor": "#04aeda",
                 "bgcolor": "#21cffc",
             }
+
         ]
     },
     {
