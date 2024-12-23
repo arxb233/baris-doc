@@ -7,6 +7,7 @@ cover: https://p2.itc.cn/images01/20210312/32c6aa346f1e4d1f909ba83f28a32cdd.png
 password: 123qwe
 message: 本文章为加密文章，请联系作者获取密码
 ---
+# 工作常用sql-加密文章
 
 ## 直接调拨单
 ```sql

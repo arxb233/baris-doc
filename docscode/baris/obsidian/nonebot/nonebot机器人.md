@@ -5,6 +5,9 @@ tags:
 top_img: https://z1.ax1x.com/2023/10/16/piCY2kV.png
 cover: https://z1.ax1x.com/2023/10/16/piCY2kV.png
 ---
+
+# nonebot异步机器人框架安装指南
+
 ## 参考链接
 ```
 1，nonebot官网：https://v2.nonebot.dev/docs/start/installation

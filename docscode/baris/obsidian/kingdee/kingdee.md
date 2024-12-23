@@ -5,7 +5,7 @@ tags:
 top_img: https://img2.baidu.com/it/u=1865517114,71969248&fm=253&fmt=auto&app=138&f=JPEG?w=691&h=500
 cover: https://img2.baidu.com/it/u=1865517114,71969248&fm=253&fmt=auto&app=138&f=JPEG?w=691&h=500
 ---
-<center><h2>金蝶云星空BOS二次开发案例演示</h2></center>
+# 金蝶云星空BOS二次开发案例演示
 
 ## 1. 开发环境
 ### 二开案例.

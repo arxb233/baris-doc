@@ -6,7 +6,7 @@ top_img: https://www.acfun.cn/imageProxy?url=https://img2.ali213.net/picfile/New
 cover: https://www.acfun.cn/imageProxy?url=https://img2.ali213.net/picfile/News/2021/09/24/584_20210924715466.jpg
 
 ---
-<Center><h2>基于Selenium工具对steam进行自动改密换绑令牌</h2></Center>
+# 基于Selenium工具对steam进行自动改密换绑令牌
 
 ## 一.selenium介绍
 

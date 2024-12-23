@@ -5,7 +5,7 @@ tags:
 top_img: https://n.sinaimg.cn/spider20190711/320/w1200h720/20190711/2f34-hzrevpz9873856.jpg
 cover: https://n.sinaimg.cn/spider20190711/320/w1200h720/20190711/2f34-hzrevpz9873856.jpg
 ---
-<center><h2>如何获取海外阿里巴巴的kewords</h2></center>
+# 如何获取海外阿里巴巴的kewords
 
 ## 1.使用谷歌官方浏览器
 ### (1)下载地址：https://www.google.cn/chrome/index.html

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cherry/PlunMarketUI.md",
-                "mode": "preview",
+                "file": "nonebot/QQBot.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PlunMarketUI"
+              "title": "QQBot"
             }
           }
         ]
@@ -165,8 +165,8 @@
   },
   "active": "11d091f3b6d348a5",
   "lastOpenFiles": [
-    "cherry/未命名.md",
     "cherry/PlunMarketUI.md",
+    "cherry/未命名.md",
     "meter/meter.md",
     "sourcetree/sourcetree.md",
     "nonebot/nonebot机器人.md",

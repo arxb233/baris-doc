@@ -6,11 +6,14 @@ cover: https://www.iperiusbackup.com/img/logos/iperius_backup_logo_header.png
 top_img: https://www.iperiusbackup.com/img/logos/iperius_backup_logo_header.png
 ---
 
+# 如何使用 Iperius Backup 进行自动备份
+
+::: tip 本文引用
 本文出处，如有侵权请联系删除：
 <a href="https://home.cnblogs.com/u/subsea/" target="_blank">https://home.cnblogs.com/u/subsea/</a>
 <a href="https://www.cnblogs.com/subsea/" target="_blank">博客园主页：https://www.cnblogs.com/subsea/</a>
 <a href="https://blog.csdn.net/SUBSEA123/" target="_blank">CSDN主页：https://blog.csdn.net/SUBSEA123/</a>
-
+:::
 
 ##  环境准备
 <p><strong><span style="color: rgba(255, 0, 0, 1)">备份工具--Iperius Backup Full--windwos平台软件</span></strong></p>
@@ -131,6 +134,7 @@ top_img: https://www.iperiusbackup.com/img/logos/iperius_backup_logo_header.png
 <p><strong><span style="background-color: rgba(255, 255, 0, 1)">跟其他存储与网络设备结合，跨网络备份，例如云服务器的数据使用FTP自动备份到本地等等</span></strong></p>
 <p><strong><span style="background-color: rgba(255, 255, 0, 1)">4.总的来说，只有有目标主机或者备份主机的相关帐号信息即可通过网络备份，比client的比起来简洁一点。</span></strong></p>
 <p>&nbsp;</p>
+
 ##  操作流程
 <p><span style="color: rgba(255, 0, 0, 1)"><strong><span style="font-size: 18px">举例：</span></strong></span><strong>自动备份一台局域网电脑的文件夹到本地</strong></p>
 <p><strong>1.安装好Iperius Backup Full，保证与局域网电脑的网络正常通信（必要时关闭防火墙）</strong></p>
@@ -224,9 +228,7 @@ top_img: https://www.iperiusbackup.com/img/logos/iperius_backup_logo_header.png
 <p>&nbsp;</p>
 <p><strong><span style="font-size: 15px"></span></strong></p>
 <p><strong>6.设置备份计划时间等等&nbsp;</strong></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+
 ##  总结
 <p>&nbsp;</p>
 <p><span style="font-size: 18px; color: rgba(255, 0, 0, 1)">软件功能十分强大的，但是网上的参考资料不多，真正愿意尝试备份的朋友可以静下来来好好研究测试一下</span></p>

@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { sidebar } from './configs'
 import { resolve } from 'path';
+import { AutoSidebar } from './configs/sidebar/AutoSidebar';
 
 export default defineConfig({
   lang: 'zh-CN',
@@ -26,14 +27,14 @@ export default defineConfig({
       lazyLoading: true
     },
 
-    // 组件插入h1标题下
-   // config: (md) => {
-     // md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
-         // let htmlResult = slf.renderToken(tokens, idx, options);
-          //if (tokens[idx].tag === 'h1') htmlResult += `<ArticleMetadata />`; 
-         // return htmlResult;
-      //}
-    //}
+     //组件插入h1标题下
+    config: (md) => {
+      md.renderer.rules.heading_close = (tokens, idx, options, env, slf) => {
+          let htmlResult = slf.renderToken(tokens, idx, options);
+          if (tokens[idx].tag === 'h1') htmlResult += `<ArticleMetadata />`; 
+          return htmlResult;
+      }
+    }
 
   },
 
@@ -127,6 +128,13 @@ export default defineConfig({
       prev: '上一页', 
       next: '下一页', 
     }, 
+    lastUpdated: {
+      text: '最后更新时间',
+      formatOptions: {
+        dateStyle: 'full',
+        timeStyle: 'medium'
+      }
+    }
 
   },
 

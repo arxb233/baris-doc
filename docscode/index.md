@@ -38,3 +38,4 @@ features:
 ---
 <confetti />
 
+<DataPanel />
