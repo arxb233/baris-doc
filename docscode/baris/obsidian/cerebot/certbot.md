@@ -7,8 +7,15 @@ cover: https://www.myfreax.com/content/images/size/w816/2019/07/certbot.webp
 ---
 # windows下使用Certbot申请通配符证书
 
+:::tip 转载说明
 本文档转发为https://zhuanlan.zhihu.com/p/627526278，如侵权联系删除
- 
+::: 
+
+
+:::warning 改文档已过时
+2024年2月Certbot停止了对Windows端的维护,可以自行配置，如果图方便可以使用windows宝塔面板
+::: 
+
 ## 一、下载并安装软件
 在这个网站下载最新的软件并安装
 ![avater](https://pic1.zhimg.com/80/v2-0f1de0a1cfd872d02d533c1b5f0a97a8_720w.webp)

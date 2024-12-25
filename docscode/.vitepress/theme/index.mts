@@ -55,13 +55,94 @@ export default {
         dockedPosition:'right',
         models: [
           {
-            path: 'https://model.oml2d.com/HK416-1-normal/model.json',
-            position: [0, 60],
+            path: "https://share.baris.top/Model/镜流/镜流.model3.json",
+            position: [0, 0],
+            scale: 0.09,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/符玄/符玄.model3.json",
+            position: [0, 0],
             scale: 0.04,
             stageStyle: {
               height: 340
             }
           },
+          {
+            path: "https://share.baris.top/Model/kafuka/kafuka.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/冰糖/免费模型冰糖.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/艾莲/免费模型艾莲.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/简/简.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/藿藿/藿藿.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/花火/12261花火.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/知更鸟/知更鸟.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/秧秧/秧秧.model3.json",
+            position: [0, 0],
+            scale: 0.06,
+            stageStyle: {
+              height: 340
+            }
+          },
+          {
+            path: "https://share.baris.top/Model/胡桃/胡桃001.model3.json",
+            position: [0, 0],
+            scale: 0.02,
+            stageStyle: {
+              height: 340
+            }
+          }
+         
         ],
         tips: {
           idleTips: {

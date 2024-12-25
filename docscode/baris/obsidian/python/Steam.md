@@ -8,6 +8,10 @@ cover: https://www.acfun.cn/imageProxy?url=https://img2.ali213.net/picfile/News/
 ---
 # 基于Selenium工具对steam进行自动改密换绑令牌
 
+:::tip 著作说明
+改文档为原创文档，转载请标注作者和出处
+::: 
+
 ## 一.selenium介绍
 
 Selenium 是一个自动化测试工具和框架，用于模拟用户与 Web 应用程序的交互。它最初是为自动化 Web 测试而开发的，但后来被广泛用于各种 Web 自动化任务，包括数据抓取、网页截图、自动填写表单、模拟用户操作等。
