@@ -57,12 +57,12 @@ export default {
         dockedPosition:'right',
         models: [
           {
-            name: "HK416-1-normal",
-            "path": "https://model.oml2d.com/HK416-1-normal/model.json",
-            "position": [0, 0],
-            "scale": 0.06,
-            "stageStyle": {
-              "height": 300
+            name: "anran",
+            path: "https://share.baris.top/Model/anran/2025完稿.model3.json",
+            position: [0, 0],
+            scale: 0.09,
+            stageStyle: {
+              height: 300
             }
           },
           {
